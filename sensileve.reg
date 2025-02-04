@@ -1,0 +1,63 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"ActiveWindowTracking"=dword:00000001
+"Beep"="No"
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="6000"
+"DoubleClickWidth"="4"
+"ExtendedSounds"="No"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="49"
+"MouseHoverWidth"="1"
+"MouseSensitivity"="10"
+"MouseSpeed"="0"
+"MouseThreshold1"="0"
+"MouseThreshold2"="0"
+"MouseTrails"="0"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,00,00,10,00,00,00,00,00,00,00,\
+  20,00,00,00,00,00,00,00,30,00,00,00,00,00,00,00,40,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,00,00,38,00,00,00,00,00,00,00,\
+  70,00,00,00,00,00,00,00,a8,00,00,00,00,00,00,00,e0,00,00,00,00,00
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+"DoubleClickWidth2"="0,5"
+"ExtendedSounds2"="no"
+"Beep2"="No"
+"DoubleClickSpeed2"="0,47"
+"TcpWindowSize"=dword:0005ae4c
+"TcpNoDelay"=hex(0):37,00,66,00,31,00,34,00,30,00,30,00,30,00,30,00,30,00,30,\
+  00,30,00,30,00,30,00,30,00,30,00,30,00,00,00
+"TCPDelAckTicks"=dword:00000005
+"Tcp1323Opts"=dword:00000003
+"TcpMaxDataRetransmissions"=dword:00000003
+"SackOpts"=dword:00000001
+"DefaultTTL"=dword:00007fff
+"EnablePMTUDiscovery"=dword:00000001
+"EnablePMTUBHDetect"=dword:00000000
+"MouseCP"="55"
+"MouseCL"="55"
+"Mousetrack"="908"
+"Mousecrib"="10"
+"Mousecontrolusb"="1"
+"MouseTK"="810"
+"Fov"="100"
+"MouseGrab"="908"
+"MouseStickOn"="9"
+"DockTargetMouseDragOutWidth"="1"
+"DockTargetMouseSideMoveWidth"="2"
+"DockTargetMouseWidth"="3"
+"DockTargetPenDragOutWidth"="3"
+"DockTargetPenSideMoveWidth"="2"
+"DoubleClickHeight2"="0,6"
+"DockTargetPenWidth"="1"
+"MouseSensibility2"="10"
+"MouseSpeed2"="0"
+"MouseThreshold12"="0"
+"MouseThreshold22"="0"
+"MouseSensitivity2"="7"
+"Assist"="yuyu"
+"ActiveFix"="yuyu"
+"ActiveAC"="yuyu"
+"Active"="yuyu"
+"ActiveDevoloped"="yuyu"
